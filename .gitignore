@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm & Jupyter
+.ipynb_checkpoints/
+.idea/
+
+# Etc
+.env
+set-python-virtualenv.MD
+data/
+py3.9-athena/
+
+
